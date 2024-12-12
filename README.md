@@ -1,5 +1,5 @@
 # 👋 Hi there. I'm Het Patel!
-### Student, Master in Applied Computer Science @Dalhousie University, Nova Scotia, Canada<br>Software Developer with 1 year of experience.<br>Machine Learning and AI enthusiast.<br>
+#### Student, Master in Applied Computer Science @Dalhousie University.<br>Software Developer with 1 year of experience.<br>Machine Learning and AI enthusiast.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/het-patel-a9a507190/) 
