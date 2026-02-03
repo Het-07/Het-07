@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Het%20Patel.&fontColor=White&fontSize=70" width="100%" alt="Het Patel Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Het%20Patel.&fontColor=F5DEB3&fontSize=70" width="100%" alt="Het Patel Header" />
 </div>
 
 ### <div align="center">Software developer with 1.5+ years of professional experience, aiming to leverage skills to solve real-world problems.</div>
