@@ -1,6 +1,10 @@
-# Hi 👋, I'm HET PATEL
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Het%20Patel.&fontColor=Black&fontSize=70" width="100%" alt="Het Patel Header" />
+</div>
 
-### Software developer with 1.5+ years of professional experience, aiming to leverage skills to solve real-world problems.
+### <div align="center">Software developer with 1.5+ years of professional experience, aiming to leverage skills to solve real-world problems.</div>
+
+<br/>
 
 - 🔭 I'm currently working on **Machine Learning Modelling**
 
@@ -10,7 +14,7 @@
 
 - 📫 How to reach me **hgpatel.ca@gmail.com**
 
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/patelhet34/](https://www.linkedin.com/in/patelhet34/)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/patelhet34/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
