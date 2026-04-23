@@ -18,17 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Het-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Het-07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patelhet34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patelhet34" height="30" width="40" /></a>
+  <a href="https://github.com/Het-07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/patelhet34" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
-  gap: 12px;
-  max-width: 800px;
-">
-  <img src="https://skillicons.dev/icons?  i=aws,anaconda,angular,babel,bash,bootstrap,chartjs,css,cypress,d3,django,docker,express,fastapi,firebase,flask,framer,gcp,git,grafana,graphql,html,huggingface,java,js,jenkins,jest,jupyter,kafka,keras,kubernetes,langchain,linux,matplotlib,mlflow,mongodb,mysql,nextjs,nginx,nodejs,numpy,opencv,oracle,pandas,postgres,postman,python,pytorch,react,redis,redux,sklearn,selenium,spring,tailwind,tensorflow,ts,webpack" />
-</div>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,anaconda,angular,babel,bash,bootstrap,chartjs,css,cypress,d3,django,docker,express,fastapi,firebase,flask,framer,gcp,git,grafana,graphql,html,huggingface,java,js,jenkins,jest,jupyter,kafka,keras,kubernetes,langchain,linux,matplotlib,mlflow,mongodb,mysql,nextjs,nginx,nodejs,numpy,opencv,oracle,pandas,postgres,postman,python,pytorch,react,redis,redux,sklearn,selenium,spring,tailwind,tensorflow,ts,webpack" />
+</p>
 
