@@ -28,7 +28,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,anaconda,angular,babel,bash,bootstrap,chartjs,css,cypress,d3,django,docker,express,fastapi,firebase,flask,framer,gcp,git,grafana,graphql,html,huggingface,java,js,jenkins,jest,jupyter,kafka,keras,kubernetes,langchain,linux,matplotlib,mlflow,mongodb,mysql,nextjs,nginx,nodejs,numpy,opencv,oracle,pandas,postgres,postman,python,pytorch,react,redis,redux,sklearn,selenium,spring,tailwind,tensorflow,ts,webpack" />
+<!-- Core -->
+<h4>💻 Core Development</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,django,flask,fastapi" />
 </p>
 
+<!-- Cloud -->
+<h4>☁️ Cloud & DevOps</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,nginx,grafana" />
+</p>
+
+<!-- Data -->
+<h4>🧠 Data & AI/ML</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,jupyter" />
+</p>
+
+<!-- Database -->
+<h4>🗄️ Databases & Messaging</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
+</p>
+
+<!-- Testing -->
+<h4>🧪 Testing & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,jest,postman,git,linux,bash" />
+</p>
