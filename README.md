@@ -23,7 +23,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,anaconda,angular,babel,bash,bootstrap,chartjs,css,cypress,d3,django,docker,express,fastapi,firebase,flask,framer,gcp,git,grafana,graphql,html,huggingface,java,js,jenkins,jest,jupyter,kafka,keras,kubernetes,langchain,linux,matplotlib,mlflow,mongodb,mysql,nextjs,nginx,nodejs,numpy,opencv,oracle,pandas,postgres,postman,python,pytorch,react,redis,redux,sklearn,selenium,spring,tailwind,tensorflow,ts,webpack" />
-</p>
+<div align="left" style="
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+  gap: 12px;
+  max-width: 800px;
+">
+  <img src="https://skillicons.dev/icons?  i=aws,anaconda,angular,babel,bash,bootstrap,chartjs,css,cypress,d3,django,docker,express,fastapi,firebase,flask,framer,gcp,git,grafana,graphql,html,huggingface,java,js,jenkins,jest,jupyter,kafka,keras,kubernetes,langchain,linux,matplotlib,mlflow,mongodb,mysql,nextjs,nginx,nodejs,numpy,opencv,oracle,pandas,postgres,postman,python,pytorch,react,redis,redux,sklearn,selenium,spring,tailwind,tensorflow,ts,webpack" />
+</div>
 
